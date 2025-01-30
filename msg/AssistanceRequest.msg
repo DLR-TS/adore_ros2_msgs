@@ -13,5 +13,5 @@
 # ********************************************************************************
 
 std_msgs/Header header
-adore_ros2_msgs/VehicleStateDynamic[] states
+adore_ros2_msgs/VehicleStateDynamic state
 bool assistance_needed
