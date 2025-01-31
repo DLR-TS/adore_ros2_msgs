@@ -10,6 +10,8 @@
 # *
 # * Contributors: 
 # *  Daniel Heß
+# *  Marko Mizdrak
 # ********************************************************************************
 
 TrafficParticipantDetection[] data
+Polygon2d validity_area
